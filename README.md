@@ -11,7 +11,7 @@ Citra Multiband (Citra Inputan), Yang Terdiri dari 5 band:
   *  Band 4: Band 5 Landsat 9 TOA (Interpetasi False Color, Kombinasi 7-5-4)
   *  Band 5: Band 7 Landsat 9 TOA (Interpetasi False Color, Kombinasi 7-5-4)
 
-Citra Mask (Label segmentasi), yang diperoleh dari thresholinding DNBR, terdiri dari 2 warna mewakili piksel
+Citra Mask (Label segmentasi), yang diperoleh dari thresholding DNBR, terdiri dari 2 warna mewakili piksel
  * Putih > Burned Area (Area Terbakar)
  * Hitam > Non-Burned Area (Tidak Area Terbakar)
 
