@@ -1,5 +1,9 @@
 # datapenelitian
 
+
+Merupakan Data penelitian https://github.com/alberanalafean22/Riset-TA 
+
+
 Citra Multiband (Citra Inputan), Yang Terdiri dari 5 band:
   *  Band 1: NDVI
   *  Band 2: NBR
