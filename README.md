@@ -1,8 +1,7 @@
 # datapenelitian
+Bisa diakses disini: https://drive.google.com/drive/folders/1bTXTyNOZmsjPzK9p0uq--lxlxySPnBhk?usp=sharing 
 
-
-Merupakan Data penelitian https://github.com/alberanalafean22/Riset-TA 
-
+Merupakan Data penelitian https://github.com/alberanalafean22/Riset-TA , terdiri dari 3 Jenis Citra: Citra False Color (Untuk menlihat visualisasi Kondisi citra pada kombinasi band 7-5-4), citra multiband(sebagai inputan model) dan citra mask(sebagai label)
 
 Citra Multiband (Citra Inputan), Yang Terdiri dari 5 band:
   *  Band 1: NDVI
